@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442930251468",
+    "firebase_url": "https://afya-ff7b6.firebaseio.com",
+    "project_id": "afya-ff7b6",
+    "storage_bucket": "afya-ff7b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442930251468:android:ce3259f1eba02a048ae469",
+        "android_client_info": {
+          "package_name": "com.buyahi.afya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442930251468-9t8ufl87dqmf2mh372m04fvnfnuekjgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3_jWgrXm7HKmhWLcXSFqXrbgKCgLXXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442930251468-9t8ufl87dqmf2mh372m04fvnfnuekjgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
